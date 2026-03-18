@@ -1,0 +1,93 @@
+# Projecte Final DAW
+
+## Objectiu
+Desenvolupar una aplicació web completa amb backend, frontend i desplegament.
+
+---
+
+# Fase 1 — Anàlisi i disseny
+
+## 1. Descripció del sistema i context
+La wiki actual té informació precisa però potser no és massa accesible per un usuari que no sap usar una wiki comuna.
+L'aplicació sería una wiki interactiva on tot es facilment accesible amb una interficie d'usuari intuïtiva.
+
+## 2. Requisits
+### Requisits funcionals
+| Codi | Descripció                                  |
+| ---- | ------------------------------------------- |
+| RF1  | Registrar usuaris                           |
+| RF2  | Iniciar sessió                              |
+| RF3  | Crear unitats                               |
+| RF4  | Cercar unitats per categoria                |
+| RF5  | Crear enemics                               |
+| RF6  | Cercar enemics per tipus                    |
+| RF7  | Administrar usuaris                         |
+
+### Requisits no funcionals
+Seguretat, rendiment, accessibilitat.
+| Categoria      | Requisit                                       |
+| -------------- | ---------------------------------------------- |
+| Seguretat      | Autenticació segura i contrasenyes encriptades |
+| Rendiment      | Resposta de l'API inferior a 2 segons          |
+| Usabilitat     | Interfície responsive i accessibilitat         |
+| Disponibilitat | Disponibilitat mínima del 99%                  |
+
+## 3. Model conceptual
+Diagrama d'entitats o classes i diccionari de dades.
+
+## 4. Model de negoci
+Diagrama de casos d'ús.
+
+## 5. Wireframes
+Esbossos de les pantalles principals.
+
+## 6. Estimació de temps
+Taula amb hores estimades per tasques.
+
+## 7. Planificació
+Organització del treball amb Trello o similar.
+
+---
+
+# Fase 2 — Desenvolupament
+
+## Backend
+Funcionalitats:
+- CRUD
+- Validacions
+- Filtratge
+- Paginació
+- Autenticació
+
+## Frontend
+
+Funcionalitats:
+- Consum d'API
+- Peticions asíncrones
+- Validacions de formularis
+- Estilat de d'interfíce
+
+## Control de versions
+Ús obligatori de Git.
+## Desplegament
+Preparació de l'aplicació pel desplegament
+  - Dockerització
+  - Servidor web
+
+---
+
+# Fase 3 — Manuals
+
+## Manual d'usuari
+Explicació de les funcionalitats.
+
+## Manual de desplegament
+Guia tècnica d'instal·lació.
+
+---
+
+# Fase 4 — Presentació
+
+Demostració del projecte i explicació de l'arquitectura.
+
+---
