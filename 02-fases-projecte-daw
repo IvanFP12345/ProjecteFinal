@@ -39,7 +39,16 @@ L'aplicació sería una wiki interactiva on tot es facilment accesible amb una i
 Diagrama d'entitats o classes i diccionari de dades.
 
 ## 4. Model de negoci
-Diagrama de casos d'ús.
+
+| Actor            | Accions Principals                         |
+| ---------------- | ----------------------------------- |
+| Visitant         | Pot consultar articles públics i registrar-se   |
+| Usuari registrat | Pot fer comentaris a les planes     |
+| Administrador    | Modera, afegeix, edita, elimina continguts, gestiona usuaris |
+
+### Diagrama de casos d'ús.
+
+(Diagrama per fer amb PlantUML)
 
 ## 5. Wireframes
 Esbossos de les pantalles principals.
