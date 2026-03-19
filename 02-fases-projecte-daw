@@ -18,18 +18,21 @@ L'aplicació sería una wiki interactiva on tot es facilment accesible amb una i
 | RF1  | Registrar usuaris                           |
 | RF2  | Iniciar sessió                              |
 | RF3  | Crear unitats                               |
-| RF4  | Cercar unitats per categoria                |
-| RF5  | Crear enemics                               |
-| RF6  | Cercar enemics per tipus                    |
-| RF7  | Administrar usuaris                         |
+| RF4  | Cercar unitats per tipus                    |
+| RF5  | Editar unitats                              |
+| RF6  | Eliminar unitats                            |
+| RF7  | Crear enemics                               |
+| RF8  | Cercar enemics per tipus                    |
+| RF9  | Editar enemics                              |
+| RF10 | Eliminar enemics                            |
+| RF11 | Administrar usuaris                         |
 
 ### Requisits no funcionals
-Seguretat, rendiment, accessibilitat.
 | Categoria      | Requisit                                       |
 | -------------- | ---------------------------------------------- |
 | Seguretat      | Autenticació segura i contrasenyes encriptades |
 | Rendiment      | Resposta de l'API inferior a 2 segons          |
-| Usabilitat     | Interfície responsive i accessibilitat         |
+| Usabilitat     | Interfície responsive i accessible             |
 | Disponibilitat | Disponibilitat mínima del 99%                  |
 
 ## 3. Model conceptual
